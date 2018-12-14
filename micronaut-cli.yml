@@ -1,0 +1,5 @@
+profile: kafka
+defaultPackage: rsvp.loader
+---
+testFramework: spock
+sourceLanguage: groovy
