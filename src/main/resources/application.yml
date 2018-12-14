@@ -5,5 +5,5 @@ micronaut:
 ---
 kafka:
     bootstrap:
-#        servers: localhost:9092
-      servers: admrscrubigd5.conectasouzacruz.com.br:9092
+        servers: localhost:9092
+#      servers: admrscrubigd5.conectasouzacruz.com.br:9092
